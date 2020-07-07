@@ -1,0 +1,14 @@
+ihatemoney.cfg
+*.pyc
+*.egg-info
+dist
+.venv
+docs/_build/
+.tox
+dist
+.cache/
+build
+.vscode
+.env
+.pytest_cache
+
